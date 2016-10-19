@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+	box-sizing: border-box;
+}
+h1 {
+	text-transform: uppercase;
+	font-weight: bolder;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 2px;
+}
+h1,h2 {
+text-align: center;
+}
+img {
+	width: 10%;
+	margin: 0 auto;
+}
+
+#map {
+	width:100%;
+	height: 600px;
+
+}
+
+ul{
+	margin:15px auto;
+}
+
+h2 {
+	margin-top: -10px;
+	font-size: 1em;
+	font-style: italic;
+}
+footer p {
+	padding: 2%;
+}
+
+
+
+
